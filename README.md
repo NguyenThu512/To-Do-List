@@ -1,5 +1,5 @@
 # To-Do-List
-HTML, CSS, and JavaScript are used to create this music player. Feature:
+HTML, CSS, and JavaScript are used to create this to do list. Feature:
 - Add to-do list
 - Delete to-do list
 - Edit to-do list
